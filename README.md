@@ -17,7 +17,7 @@ _Write a program that takes a user’s input and prints the numbers from one to 
 
 ## Setup/Installation Requirements
 
-* _None, just click [here]() to view live GitHub Page._
+* _Clone this repo and open index.html file._
 
 
 ## Known Bugs
