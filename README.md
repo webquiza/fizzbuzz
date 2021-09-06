@@ -26,6 +26,8 @@ _Write a program that takes a user’s input and prints the numbers from one to 
 
 ## License
 
+_MIT_
+
 ## Contact Information
 
 _webquiza@gmail.com_
