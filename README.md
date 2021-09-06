@@ -1,3 +1,31 @@
-## Solve Fizz Buzz
+# _Solve Fizz Buzz_
 
-### Write a program that allows the user to enter a number, print each number between one and the number the user entered, but for numbers that divide by three without a remainder print Fizz instead. For numbers that divide by 5 without a remainder print Buzz and finally for numbers that divide by both three and five without a remainder print FizzBuzz.
+#### _Problem solving exercice through [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/problem-solving) Foundations course._
+
+#### By _**Carlos Urquiza**_
+
+## Technologies Used
+
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _Git_
+
+## Description
+
+_Write a program that takes a user’s input and prints the numbers from one to the number the user entered. However, for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuz_
+
+## Setup/Installation Requirements
+
+* _None, just click [here]() to view live GitHub Page._
+
+
+## Known Bugs
+
+* _No known bugs_
+
+## License
+
+## Contact Information
+
+_webquiza@gmail.com_
