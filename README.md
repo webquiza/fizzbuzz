@@ -17,7 +17,7 @@ _Write a program that takes a user’s input and prints the numbers from one to 
 
 ## Setup/Installation Requirements
 
-* _Clone this repo and open index.html file._
+* _No setup or installation required. See live site [here](https://webquiza.github.io/fizzbuzz/)._
 
 
 ## Known Bugs
