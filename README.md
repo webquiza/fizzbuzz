@@ -6,10 +6,10 @@
 
 ## Technologies Used
 
-* _HTML_
-* _CSS_
-* _JavaScript_
-* _Git_
+- _HTML_
+- _CSS_
+- _JavaScript_
+- _Git_
 
 ## Description
 
@@ -17,12 +17,11 @@ _Write a program that takes a user’s input and prints the numbers from one to 
 
 ## Setup/Installation Requirements
 
-* _No setup or installation required. See live site [here](https://webquiza.github.io/fizzbuzz/)._
-
+- _No setup or installation required. See live site [here](https://webquiza.github.io/fizzbuzz/)._
 
 ## Known Bugs
 
-* _No known bugs_
+- _No known bugs_
 
 ## License
 
@@ -31,3 +30,5 @@ _MIT_
 ## Contact Information
 
 _webquiza@gmail.com_
+
+TEST
